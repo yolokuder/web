@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"4EvU":function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),o=a.n(t),l=a("JSvG"),u=a("aAma");n.default=function(){return o.a.createElement(l.a,null,o.a.createElement(u.a,null,"Welcome to yolokuder"))}}}]);
+//# sourceMappingURL=component---src-pages-home-index-js-6fbdf7870a892f866241.js.map
